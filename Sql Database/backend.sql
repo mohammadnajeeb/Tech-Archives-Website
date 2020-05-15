@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 4.9.0.1
--- https://www.phpmyadmin.net/
+-- https://www.techarchives.media/
 --
 -- Host: 127.0.0.1
 -- Generation Time: Nov 25, 2019 at 05:33 PM
